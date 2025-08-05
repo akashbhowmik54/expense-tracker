@@ -1,2 +1,2 @@
 <?php
-echo "Hello from InfinityFree!";
+echo "Vogoban Shohay";
